@@ -10,7 +10,7 @@ import streamlit as st
 
 
 DATA_FILE = Path(__file__).with_name("habit_data.json")
-APP_TITLE = "Habit Tracker"
+APP_TITLE = "Habit Tracker for human"
 
 
 def rerun() -> None:
